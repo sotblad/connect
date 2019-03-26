@@ -552,6 +552,7 @@ class TrezorConnect {
 export default TrezorConnect;
 
 export {
+    IFRAME,
     TRANSPORT,
     UI,
     DEVICE,
